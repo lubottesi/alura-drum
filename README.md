@@ -1,6 +1,6 @@
 # Alura MIDI
 
-A browser drum machine — click any of the 9 pads (or focus one and press Space/Enter) to play a drum sound.
+A browser drum machine - click any of the 9 pads (or focus one and press Space/Enter) to play a drum sound.
 
 Built while practicing vanilla JavaScript DOM manipulation at Alura.
 
@@ -8,11 +8,11 @@ Built while practicing vanilla JavaScript DOM manipulation at Alura.
 
 - HTML5 (native `<audio>` elements per pad)
 - CSS3
-- Vanilla JavaScript — `querySelectorAll`, click/keydown/keyup event handlers
+- Vanilla JavaScript - `querySelectorAll`, click/keydown/keyup event handlers
 
 ## Running locally
 
-No build step — open `index.html` in a browser, or serve the folder:
+No build step - open `index.html` in a browser, or serve the folder:
 
 ```bash
 python -m http.server 8000
